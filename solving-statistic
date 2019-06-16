@@ -1,0 +1,65 @@
+LeetCode Problem Solving Statistics
+
+--------------May--------------
+
+#0001 (two-sum)
+#0167 (two-sum-ii-input-array-is-sorted)
+#0034 (find-first-and-last-position-of-element-in-sorted-array)
+
+-------------June--------------
+
+10.06
+#0389 (find-the-difference)
+
+11.06
+#0007 (reverse-integer)
+#0009 (palindrome-number)
+#0026 (remove-duplicates-from-sorted-array)
+#0069 (sqrtx)
+#0136 (single-number)
+#0066 (plus-one)
+#0190 (reverse-bits)
+
+12.06
+#0191 (number-of-1-bits)
+#0633 (sum-of-square-numbers)
+#0367 (valid-perfect-square)
+#0020 (valid-parentheses)
+#0125 (valid-palindrome)
+#0746 (min-cost-climbing-stairs)
+#0693 (binary-number-with-alternating-bits)
+#0709 (to-lower-case)
+#0169 (majority-element)
+#0035 (search-insert-position)
+#0083 (remove-duplicates-from-sorted-list)
+
+13.06
+#0155 (min-stack)
+
+14.06
+#0112 (path-sum)
+#0374 (guess-number-higher-or-lower)
+#0070 (climbing-stairs)
+#0509 (fibonacci-number)
+#0121 (best-time-to-buy-and-sell-stock)
+#0198 (house-robber)
+#0303 (range-sum-query-immutable)
+#0104 (maximum-depth-of-binary-tree)
+#0559 (maximum-depth-of-n-ary-tree)
+#0119 (pascals-triangle-ii)
+#0771 (jewels-and-stones)
+#0938 (range-sum-of-bst)
+
+15.06
+#0657 (robot-return-to-origin)
+#0977 (squares-of-a-sorted-array)
+#0961 (n-repeated-element-in-size-2n-array)
+#0905 (sort-array-by-parity)
+#0832 (flipping-an-image)
+#0804 (unique-morse-code-words)
+#1021 (remove-outermost-parentheses)
+
+16.06
+#0728 (self-dividing-numbers)
+#0477 (total-hamming-distance)
+#0461 (hamming-distance)
