@@ -133,3 +133,4 @@ To-Learn List:
 #0237 (delete-node-in-a-linked-list)
 #0203 (remove-linked-list-elements)
 #0242 (valid-anagram)
+#0206 (reverse-linked-list) !!! ONLY ITERATIVLY
