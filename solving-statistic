@@ -156,8 +156,11 @@ To-Learn List:
 #0695 (max-area-of-island)
 #0038 (count-and-say)
 
-21.06
+21.06 (4)
 #0017 (letter-combinations-of-a-phone-number)
 #0014 (longest-common-prefix)
 #0050 (powx-n)
 #0098 (validate-binary-search-tree)
+
+22.06 
+#0150 (evaluate-reverse-polish-notation)
