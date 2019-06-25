@@ -173,3 +173,4 @@ To-Learn List:
 25.06
 #0094 (binary-tree-inorder-traversal) 
 #0079 (word-search)
+#0212 (word-search-ii) !! bad solution, need trie
