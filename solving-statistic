@@ -170,7 +170,7 @@ To-Learn List:
 
 24.06 (0)
 
-25.06
+25.06 (4)
 #0094 (binary-tree-inorder-traversal) 
 #0079 (word-search)
 #0212 (word-search-ii) !! bad solution, need trie
@@ -179,3 +179,4 @@ To-Learn List:
 26.06
 #0999 (available-captures-for-rook)
 #0027 (remove-element)
+#0849 (maximize-distance-to-closest-person)
