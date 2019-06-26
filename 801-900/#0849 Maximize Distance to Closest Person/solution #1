@@ -1,0 +1,30 @@
+class Solution {
+public:
+    int maxDistToClosest(vector<int>& seats) {
+        int leftDist = -1;
+        int rightDist = -1;
+        int maxDist = 0;
+        
+        int currDist = 0;
+        
+        for (int i = 0; i < seats.size(); i++) {
+            if (seats[i] == 0) {
+                currDist++;
+            } else {
+                if (leftDist == -1) {
+                    leftDist = currDist;
+                }
+                maxDist = max(maxDist, currDist);
+                currDist = 0;
+            }
+        }
+        rightDist = currDist;
+        if (maxDist % 2) {
+            maxDist = maxDist / 2 + 1;
+        } else {
+            maxDist = maxDist / 2;
+        }
+        
+        return max(maxDist, max(leftDist, rightDist));
+    }
+};
