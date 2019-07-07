@@ -205,8 +205,11 @@ To-Learn List:
 
 05.07 (0)
 
-06.07
+06.07 (4)
 #0796 rotate-string (needs KMP)
 #0994 rotting-oranges
 #0543 diameter-of-binary-tree
 #0415 add-strings
+
+07.07 
+#0492 construct-the-rectangle
