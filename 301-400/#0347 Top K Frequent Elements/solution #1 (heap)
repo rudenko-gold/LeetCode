@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<int> topKFrequent(vector<int>& nums, int k) {
+        unordered_map<int, int> freq;
+        
+        for (int i = 0; i < nums.size(); ++i) {
+            freq[nums[i]]++;
+        }
+        
+        multiset<pair<int, int>> heap;
+        
+        for (auto el : freq) {
+            if (el.second > 0) {
+                heap.insert(make_pair(el.second, el.first));
+                if (heap.size() > k) {
+                    heap.erase(heap.begin());
+                }
+            }
+        }
+        
+        vector<int> ans;
+        ans.reserve(k);
+        
+        for (auto el : heap) {
+            ans.push_back(el.second);
+        }
+        
+        return ans;
+    }
+};
