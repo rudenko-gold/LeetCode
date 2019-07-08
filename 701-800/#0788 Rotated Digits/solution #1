@@ -1,0 +1,40 @@
+class Solution {
+public:
+    bool isGood(int number) {
+        int goodCnt = 0;
+        int invalidCnt = 0;
+        
+        while (number > 0) {
+            int last = number % 10;
+            if (last == 2 || last == 5 || last == 6 || last == 9) {
+                goodCnt++;
+            } 
+            if (last == 3 || last == 4 || last == 7) {
+                invalidCnt++;
+            }
+            
+            number /= 10;
+        }
+        
+        if (goodCnt == 0) {
+            return false;
+        } else {
+            if (invalidCnt == 0) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    }
+    
+    int rotatedDigits(int n) {
+        int ans = 0;
+        for (int i = 1; i <= n; i++) {
+            if (isGood(i)) {
+                ans++;
+            }
+        }
+        
+        return ans;
+    }
+};
