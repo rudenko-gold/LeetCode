@@ -1,0 +1,18 @@
+class Solution {
+public:
+    bool isMonotonic(vector<int>& a) {
+        bool isAscending = true;
+        bool isDescending = true;
+
+        for (int i = 1; i < a.size(); ++i) {
+            if (a[i] > a[i - 1]) {
+                isDescending = false;
+            }
+            if (a[i] < a[i - 1]) {
+                isAscending = false;
+            }
+        }
+
+        return isAscending || isDescending;
+    }
+};
