@@ -1,0 +1,18 @@
+class Solution {
+public:
+    string reverseOnlyLetters(string s) {
+        vector<int> letterPos;
+        
+        for (int i = 0; i < s.size(); ++i) {
+            if ((s[i] >= 'a' && s[i] <= 'z') || (s[i] >= 'A' && s[i] <= 'Z')) {
+                letterPos.push_back(i);
+            }
+        }
+        
+        for (int i = 0; i < letterPos.size() / 2; i++) {
+            swap(s[letterPos[i]], s[letterPos[letterPos.size() - 1 - i]]);
+        }
+        
+        return s;
+    }
+};
