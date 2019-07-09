@@ -1,0 +1,32 @@
+class Solution {
+public:
+    int findLHS(vector<int>& nums) {
+        if (nums.size() == 0) {
+            return 0;
+        }
+        
+        sort(nums.begin(), nums.end());
+        vector<pair<int, int>> cnt;
+        int c = 1;
+        for (int i = 1; i < nums.size(); ++i) {
+            if (nums[i] != nums[i - 1]) {
+                cnt.push_back(make_pair(c, nums[i - 1]));
+                c = 1;
+            } else {
+                c++;
+            }
+        }
+        
+        if (c > 0) {
+            cnt.push_back(make_pair(c, nums.back()));
+        }
+        
+        int ans = 0;
+        for (int i = 1; i < cnt.size(); ++i) {
+            if (cnt[i].second - cnt[i - 1].second == 1) {
+                ans = max(ans, cnt[i].first + cnt[i - 1].first);
+            }
+        }
+        return ans;
+    }
+};
