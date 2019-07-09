@@ -1,0 +1,22 @@
+class Solution {
+public:
+    bool canConstruct(string ransomNote, string magazine) {
+        int dictMagazine[27] = { };
+        
+        for (int i = 0; i < magazine.size(); ++i) {
+            dictMagazine[magazine[i] - 'a']++;
+        }
+        
+        for (int i = 0; i < ransomNote.size(); ++i) {
+            char c = ransomNote[i];
+            
+            if (dictMagazine[c - 'a'] == 0) {
+                return false;
+            } else {
+                dictMagazine[c - 'a']--;
+            }
+        }
+        
+        return true;
+    }
+};
