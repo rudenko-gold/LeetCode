@@ -1,0 +1,16 @@
+class Solution {
+public:
+    string reverseStr(string s, int k) {
+        auto it = s.begin();
+        
+        for (;it < s.end(); it += 2 * k) {
+            if (it + k >= s.end()) {
+                reverse(it, s.end());
+            } else {
+                reverse(it, it + k);
+            }
+        }
+        
+        return s;
+    }
+};
