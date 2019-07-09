@@ -218,7 +218,7 @@ To-Learn List:
 07.07 (1)
 #0492 construct-the-rectangle
 
-08.07 
+08.07 (11)
 #0122 best-time-to-buy-and-sell-stock-ii
 #1108 defanging-an-ip-address
 #0189 rotate-array
@@ -230,3 +230,6 @@ To-Learn List:
 #0976 largest-perimeter-triangle
 #0917 reverse-only-letters
 #0520 detect-capital
+
+09.07 
+#0485 max-consecutive-ones
