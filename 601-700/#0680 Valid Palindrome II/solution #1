@@ -1,0 +1,24 @@
+class Solution {
+public:
+    bool isPalindrome(string& s, int i, int j) {
+        for (int k = 0; k < (j - i + 1); k++) {
+            if (s[i + k] != s[j - k]) {
+                return false;
+            }
+        }
+        return true;
+    }
+    
+    bool validPalindrome(string& s) {
+        int len = s.size() / 2;
+        int n = s.size();
+        for (int i = 0; i < len; ++i) {
+            if (s[i] != s[n - 1 - i]) {
+                int j = n - 1 - i;
+                return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
+            }
+        }
+        
+        return true;
+    }
+};
