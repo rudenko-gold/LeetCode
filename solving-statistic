@@ -231,7 +231,7 @@ To-Learn List:
 #0917 reverse-only-letters
 #0520 detect-capital
 
-09.07 
+09.07 (8)
 #0485 max-consecutive-ones
 #0606 construct-string-from-binary-tree
 #1071 greatest-common-divisor-of-strings
@@ -241,7 +241,7 @@ To-Learn List:
 #0594 longest-harmonious-subsequence
 #0541 reverse-string-ii
 
-10.07 
+10.07 (5)
 #0022 generate-parentheses
 #0292 nim-game
 #0037 sudoku-solver
@@ -252,3 +252,4 @@ To-Learn List:
 #0111 minimum-depth-of-binary-tree
 #0983 minimum-cost-for-tickets
 #0232 implement-queue-using-stacks
+#0226 ivert-binary-tree
