@@ -39,8 +39,8 @@ public:
             }
         }
         
-        for(int r = ( i / 3 ) * 3, end_r = r + 3; r < end_r; ++r) {
-            for(int c = ( j / 3 ) * 3, end_c = c + 3; c < end_c; ++c) {
+        for(int r = (i / 3) * 3, end_r = r + 3; r < end_r; ++r) {
+            for(int c = (j / 3) * 3, end_c = c + 3; c < end_c; ++c) {
                 if(board[r][c] != '.' && ! box.insert(board[r][c]).second) {
                     return false;
                 }
