@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int fourSumCount(vector<int>& a, vector<int>& b, vector<int>& c, vector<int>& d) {
+        vector<int> ab;
+        ab.reserve(a.size() * b.size());
+        for (int i = 0; i < a.size(); ++i) {
+            for (int j = 0; j < b.size(); j++) {
+                ab.push_back(a[i] + b[j]);
+            }
+        }
+        
+        vector<int> cd;
+        cd.reserve(c.size() * d.size());
+        for (int i = 0; i < c.size(); ++i) {
+            for (int j = 0; j < d.size(); j++) {
+                cd.push_back(c[i] + d[j]);
+            }
+        }
+        
+        int ans = 0;
+        sort(cd.begin(), cd.end());
+        for (int i = 0; i < ab.size(); i++) {
+            int comp = ab[i] * -1;
+            ans += upper_bound(cd.begin(), cd.end(), comp) - lower_bound(cd.begin(), cd.end(), comp);
+        }
+        
+        return ans;
+    }
+};
