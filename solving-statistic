@@ -287,4 +287,4 @@ Mock-Interview
 #0101 symmetric-tree
 #0003 longest-substring-without-repeating-characters
 #0002 add-two-numbers
-#0005 longest-palindromic-substring
+#0005 longest-palindromic-substring (need Manacher's Algorithm) !!!!!
