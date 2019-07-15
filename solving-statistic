@@ -1,5 +1,9 @@
 LeetCode Problem Solving Statistics
 
+Status on 15.07.19:
+Problems Solved - xxx (Easy - xxx; Medium - xxx, Hard - xxx)
+Mock-Interview Completed: 1 (14.07.19 - Interviewr: Melkonyan Alex)
+
 To-Learn List:
 - Longest increasing subsequence (n*log n)
 - Permutations generating
@@ -276,4 +280,8 @@ To-Learn List:
 #0240 search-a-2d-matrix-ii
 #0454 4sum-ii
 
-14.07
+14.07 (0)
+Mock-Interview
+
+15.07
+#0101 symmetric-tree
