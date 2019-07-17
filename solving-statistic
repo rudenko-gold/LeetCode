@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 15.07.19:
-Problems Solved - 201 (Easy - 141; Medium - 56, Hard - 4)
+Status on 17.07.19:
+Problems Solved - 206 (Easy - 144; Medium - 58, Hard - 4)
 Mock-Interview Completed: 1 (14.07.19 - Interviewr: Melkonyan Alex)
 
 To-Learn List:
@@ -291,7 +291,9 @@ Mock-Interview
 #0647 palindromic-substrings (need Manacher's Algorithm) !!!!!
 #0091 decode-ways
 
-16.07
+16.07 (3)
 #0011 container-with-most-water
 #0900 rle-iterator
 #0949 largest-time-for-given-digits
+
+17.07 (0)
