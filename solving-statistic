@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 17.07.19:
-Problems Solved - 206 (Easy - 144; Medium - 58, Hard - 4)
+Problems Solved - 229 (Easy - 161; Medium - 62, Hard - 6)
 Mock-Interview Completed: 1 (14.07.19 - Interviewr: Melkonyan Alex)
 
 To-Learn List:
@@ -353,7 +353,7 @@ Mock-Interview
 17.08 (0)
 18.08 (0)
 
-19.08
+19.08 (10)
 #0480 sliding-window-median
 #0295 find-median-from-data-stream
 #0378 kth-smallest-element-in-a-sorted-matrix (O(n*n*log(n*n)) need improve to O(k))
@@ -363,3 +363,4 @@ Mock-Interview
 #0703 kth-largest-element-in-a-stream
 #0872 leaf-similar-trees
 #0762 prime-number-of-set-bits-in-binary-representation
+#0985 sum-of-even-numbers-after-queries
