@@ -357,3 +357,4 @@ Mock-Interview
 #0480 sliding-window-median
 #0295 find-median-from-data-stream
 #0378 kth-smallest-element-in-a-sorted-matrix (O(n*n*log(n*n)) need improve to O(k))
+#0859 buddy-strings
