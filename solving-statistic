@@ -328,16 +328,30 @@ Mock-Interview
 #0944 delete-columns-to-make-sorted
 #0933 number-of-recent-calls
 
-06.08 
+06.08 (3)
 #0876 middle-of-the-linked-list
 #0811 subdomain-visit-count
 #0922 problems/sort-array-by-parity-ii
 
-07.08
+07.08 (3)
 #1122 relative-sort-array
 #1030 matrix-cells-in-distance-order (need BFS !!!)
 #0821 shortest-distance-to-a-character
 
-08.08
+08.08 (2)
 #1147 n-th-tribonacci-number
 #0794 valid-tic-tac-toe-state
+
+09.08 (0)
+10.08 (0)
+11.08 (0)
+12.08 (0)
+13.08 (0)
+14.08 (0)
+15.08 (0)
+16.08 (0)
+17.08 (0)
+18.08 (0)
+
+19.08
+#0480 sliding-window-median
