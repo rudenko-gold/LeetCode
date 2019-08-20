@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 17.07.19:
-Problems Solved - 229 (Easy - 161; Medium - 62, Hard - 6)
+Status on 20.08.19:
+Problems Solved - 229 (Easy - 175; Medium - 62, Hard - 6)
 Mock-Interview Completed: 1 (14.07.19 - Interviewr: Melkonyan Alex)
 
 To-Learn List:
@@ -365,7 +365,7 @@ Mock-Interview
 #0762 prime-number-of-set-bits-in-binary-representation
 #0985 sum-of-even-numbers-after-queries
 
-20.08 
+20.08 (10)
 #0893 groups-of-special-equivalent-strings
 #1160 find-words-that-can-be-formed-by-characters
 #0617 merge-two-binary-trees !!!
@@ -375,3 +375,4 @@ Mock-Interview
 #1022 sum-of-root-to-leaf-binary-numbers
 #0824 goat-latin
 #0888 fair-candy-swap
+#0697 degree-of-an-array
