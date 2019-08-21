@@ -1,8 +1,10 @@
 LeetCode Problem Solving Statistics
 
-Status on 20.08.19:
-Problems Solved - 229 (Easy - 175; Medium - 62, Hard - 6)
-Mock-Interview Completed: 1 (14.07.19 - Interviewr: Melkonyan Alex)
+Status on 21.08.19:
+Problems Solved - 254 (Easy - 185; Medium - 63, Hard - 6)
+
+Mock-Interview Completed: 1 
+14.07.19 - Interviewr: Melkonyan Alex
 
 To-Learn List:
 - Longest increasing subsequence (n*log n)
@@ -377,7 +379,7 @@ Mock-Interview
 #0888 fair-candy-swap
 #0697 degree-of-an-array
 
-21.08 
+21.08 (10)
 #0504 base-7
 #0844 backspace-string-compare
 #0836 rectangle-overlap
@@ -387,3 +389,4 @@ Mock-Interview
 #0448 find-all-numbers-disappeared-in-an-array
 #0404 sum-of-left-leaves
 #1128 number-of-equivalent-domino-pairs
+#0674 longest-continuous-increasing-subsequence
