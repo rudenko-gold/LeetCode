@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 22.08.19:
-Problems Solved - 275 (Easy - 201; Medium - 67, Hard - 7)
+Status on 23.08.19:
+Problems Solved - 285 (Easy - 204; Medium - 74, Hard - 7)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -415,7 +415,7 @@ Mock-Interview
 #0434 number-of-segments-in-a-string
 #0840 magic-squares-in-grid
 
-24.08 
+24.08 (10)
 #0537 complex-number-multiplication
 #0749 daily-temperatures
 #0912 sort-an-array
@@ -425,3 +425,4 @@ Mock-Interview
 #1155 number-of-dice-rolls-with-target-sum
 #0107 binary-tree-level-order-traversal-ii
 #0506 relative-ranks
+#0409 longest-palindrome
