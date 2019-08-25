@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 23.08.19:
-Problems Solved - 285 (Easy - 204; Medium - 74, Hard - 7)
+Problems Solved - 295 (Easy - 210; Medium - 78, Hard - 7)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -427,7 +427,7 @@ Mock-Interview
 #0506 relative-ranks
 #0409 longest-palindrome
 
-25.08 
+25.08 (10)
 #0456 assign-cookies
 #0953 verifying-an-alien-dictionary
 #0205 isomorphic-strings
@@ -437,3 +437,4 @@ Mock-Interview
 #0856 score-of-parentheses
 #0513 find-bottom-left-tree-value
 #1143 longest-common-subsequence
+#0516 longest-palindromic-subsequence
