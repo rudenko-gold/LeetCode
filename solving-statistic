@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 29.08.19:
-Problems Solved - 313 (Easy - 220; Medium - 86, Hard - 7)
+Problems Solved - 331 (Easy - 238; Medium - 86, Hard - 7)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -452,7 +452,7 @@ Mock-Interview
 27.08 (0)
 28.08 (0)
 
-29.08 (10)
+29.08 (25)
 #0935 knight-dialer
 #0688 knight-probability
 #0110 balanced-binary-tree
@@ -467,3 +467,14 @@ Mock-Interview
 #1165 single-row-keyboard
 #0760 find-anagram-mappings
 #1134 armstrong-number
+#1064 fixed-point
+#1086 high-five
+#1085 sum-of-digits-in-the-minimum-number
+#1119 remove-vowels-from-a-string
+#1133 largest-unique-number
+#0346 moving-average-from-data-stream
+#1150 check-if-a-number-is-majority-element-in-a-sorted-array
+#0359 logger-rate-limiter
+#1099 two-sum-less-than-k
+#0243 shortest-word-distance
+#1065 index-pairs-of-a-string
