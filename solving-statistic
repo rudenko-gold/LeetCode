@@ -439,10 +439,17 @@ Mock-Interview
 #1143 longest-common-subsequence
 #0516 longest-palindromic-subsequence
 
-26.08
+26.08 (8)
 #0230 kth-smallest-element-in-a-bst
 #0671 second-minimum-node-in-a-binary-tree
 #0869 reordered-power-of-2
 #0048 rotate-image
 #0605 can-place-flowers
-#0201 bitwise-and-of-numbers-range
+#0201 bitwise-and-of-numbers-range !!
+#0137 single-number-ii !!
+#0507 perfect-number 
+
+27.08 (0)
+28.08 (0)
+
+29.08
