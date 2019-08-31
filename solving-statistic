@@ -479,7 +479,7 @@ Mock-Interview
 #0243 shortest-word-distance
 #1065 index-pairs-of-a-string
 
-30.08
+30.08 (7)
 #1118 number-of-days-in-a-month
 #0252 meeting-rooms
 #0253 meeting-rooms-ii
@@ -487,3 +487,6 @@ Mock-Interview
 #0057 insert-interval
 #0256 paint-house
 #0246 strobogrammatic-number
+
+31.08 
+#0422 valid-word-square
