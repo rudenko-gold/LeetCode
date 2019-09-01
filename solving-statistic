@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 29.08.19:
-Problems Solved - 331 (Easy - 238; Medium - 86, Hard - 7)
+Status on 01.09.19:
+Problems Solved - 351 (Easy - 254; Medium - 89, Hard - 8)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -505,3 +505,4 @@ Mock-Interview
 #0270 closest-binary-search-tree-value
 #0997 find-the-town-judge
 #0530 minimum-absolute-difference-in-bst
+#0783 minimum-distance-between-bst-nodes/
