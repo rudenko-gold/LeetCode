@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 01.09.19:
-Problems Solved - 351 (Easy - 254; Medium - 89, Hard - 8)
+Problems Solved - 361 (Easy - 263; Medium - 90, Hard - 8)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -488,14 +488,14 @@ Mock-Interview
 #0256 paint-house
 #0246 strobogrammatic-number
 
-31.08 
+31.08 (3)
 #0422 valid-word-square
 #1056 confusing-number
 #0408 valid-word-abbreviation
 
 -----------September-----------
 
-01.09
+01.09 (10)
 #0170 two-sum-iii-data-structure-design
 #0892 surface-area-of-3d-shapes
 #1176 diet-plan-performance
@@ -507,7 +507,7 @@ Mock-Interview
 #0530 minimum-absolute-difference-in-bst
 #0783 minimum-distance-between-bst-nodes/
 
-02.09 
+02.09 (10)
 #0401 binary-watch
 #0734 sentence-similarity
 #0278 first-bad-version
@@ -517,3 +517,4 @@ Mock-Interview
 #0299 bulls-and-cows
 #0235 lowest-common-ancestor-of-a-binary-search-tree
 #0157 read-n-characters-given-read4
+#0702 search-in-a-sorted-array-of-unknown-size
