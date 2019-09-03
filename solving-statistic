@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 01.09.19:
-Problems Solved - 361 (Easy - 263; Medium - 90, Hard - 8)
+Status on 03.09.19:
+Problems Solved - 371 (Easy - 270; Medium - 93, Hard - 8)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -519,7 +519,7 @@ Mock-Interview
 #0157 read-n-characters-given-read4
 #0702 search-in-a-sorted-array-of-unknown-size
 
-03.09 
+03.09 (10)
 #1154 day-of-the-year
 #0625 minimum-factorization
 #0604 design-compressed-string-iterator
@@ -529,3 +529,4 @@ Mock-Interview
 #0531 lonely-pixel-i
 #0687 longest-univalue-path
 #1005 maximize-sum-of-array-after-k-negations
+#0414 third-maximum-number
