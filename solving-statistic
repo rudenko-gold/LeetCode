@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 03.09.19:
-Problems Solved - 371 (Easy - 270; Medium - 93, Hard - 8)
+Status on 04.09.19:
+Problems Solved - 381 (Easy - 275; Medium - 97, Hard - 9)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -531,12 +531,14 @@ Mock-Interview
 #1005 maximize-sum-of-array-after-k-negations
 #0414 third-maximum-number
 
-04.09 
+04.09 (10)
 #1029 two-city-scheduling (READ EDITORIAL !!!)
 #0690 employee-importance
 #1018 binary-prefix-divisible-by-5
 #0437 path-sum-iii
 #0538 convert-bst-to-greater-tree
 #0968 check-completeness-of-a-binary-tree
+#0813 binary-tree-pruning
 #0124 binary-tree-maximum-path-sum
+#0129 sum-root-to-leaf-numbers
 #0988 smallest-string-starting-from-leaf
