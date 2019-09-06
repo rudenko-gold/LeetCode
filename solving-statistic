@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 04.09.19:
-Problems Solved - 381 (Easy - 275; Medium - 97, Hard - 9)
+Status on 06.09.19:
+Problems Solved - 391 (Easy - 282; Medium - 100, Hard - 9)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -545,7 +545,7 @@ Mock-Interview
 
 05.09 (0)
 
-06.09 
+06.09 (10)
 #0443 string-compression
 #0271 encode-and-decode-strings
 #0696 count-binary-substrings
@@ -555,3 +555,4 @@ Mock-Interview
 #0658 find-k-closest-elements
 #0563 binary-tree-tilt
 #0459 repeated-substring-pattern
+#0539 minimum-time-difference
