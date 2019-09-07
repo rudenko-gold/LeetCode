@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 06.09.19:
-Problems Solved - 391 (Easy - 282; Medium - 100, Hard - 9)
+Status on 07.09.19:
+Problems Solved - 401 (Easy - 283; Medium - 109, Hard - 9)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -557,7 +557,7 @@ Mock-Interview
 #0459 repeated-substring-pattern
 #0539 minimum-time-difference
 
-07.09 
+07.09 (10)
 #1180 count-substrings-with-only-one-distinct-letter
 #0921 minimum-add-to-make-parentheses-valid
 #1100 find-k-length-substrings-with-no-repeated-characters
@@ -567,3 +567,4 @@ Mock-Interview
 #0325 maximum-size-subarray-sum-equals-k
 #0731 subarray-product-less-than-k
 #0152 maximum-product-subarray
+#0163 missing-ranges
