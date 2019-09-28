@@ -594,10 +594,15 @@ Mock-Interview
 #1196 how-many-apples-can-you-put-into-the-basket
 #1184 distance-between-bus-stops
 
-25.09
+25.09 (6)
 #0362 design-hit-counter
 #0462 minimum-moves-to-equal-array-elements-ii
 #0323 number-of-connected-components-in-an-undirected-graph
 #0261 graph-valid-tree
 #0207 course-schedule
 #0210 course-schedule-ii
+
+26.09 (0)
+27.09 (0)
+28.09 (1)
+#0833 find-and-replace-in-string
