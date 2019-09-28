@@ -604,5 +604,8 @@ Mock-Interview
 
 26.09 (0)
 27.09 (0)
-28.09 (1)
+
+28.09 (3)
 #0833 find-and-replace-in-string
+#0159 longest-substring-with-at-most-two-distinct-characters
+#0340 longest-substring-with-at-most-k-distinct-characters
