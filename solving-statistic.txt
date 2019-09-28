@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
-Status on 07.09.19:
-Problems Solved - 411 (Easy - 287; Medium - 115, Hard - 9)
+Status on 28.09.19:
+Problems Solved - 414 (Easy - 287; Medium - 116, Hard - 11)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
