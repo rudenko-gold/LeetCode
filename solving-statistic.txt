@@ -617,3 +617,4 @@ Mock-Interview
 #0274 h-index
 #0419 battleships-in-a-board
 #0791 custom-sort-string
+#0967 numbers-with-same-consecutive-differences
