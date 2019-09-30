@@ -618,3 +618,4 @@ Mock-Interview
 #0419 battleships-in-a-board
 #0791 custom-sort-string
 #0967 numbers-with-same-consecutive-differences
+#0319 bulb-switcher
