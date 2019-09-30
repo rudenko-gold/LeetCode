@@ -620,3 +620,4 @@ Mock-Interview
 #0967 numbers-with-same-consecutive-differences
 #0319 bulb-switcher
 #0072 edit-distance
+#0583 delete-operation-for-two-strings
