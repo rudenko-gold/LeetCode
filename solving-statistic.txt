@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 28.09.19:
-Problems Solved - 414 (Easy - 287; Medium - 116, Hard - 11)
+Problems Solved - 422 (Easy - 288; Medium - 122, Hard - 12)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -612,7 +612,7 @@ Mock-Interview
 
 29.09 (0)
 
-30.09 
+30.09 (8)
 #1207 unique-number-of-occurrences
 #0274 h-index
 #0419 battleships-in-a-board
