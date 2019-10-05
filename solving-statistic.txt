@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 28.09.19:
-Problems Solved - 422 (Easy - 288; Medium - 122, Hard - 12)
+Problems Solved - 426 (Easy - 290; Medium - 123, Hard - 13)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -621,3 +621,16 @@ Mock-Interview
 #0319 bulb-switcher
 #0072 edit-distance
 #0583 delete-operation-for-two-strings
+
+-------------October-----------
+
+01.10 (0)
+02.10 (0)
+03.10 (0)
+04.10 (0)
+
+05.10 (4)
+#1213 intersection-of-three-sorted-arrays
+#1214 two-sum-bsts
+#1215 stepping-numbers
+#1216 valid-palindrome-iii
