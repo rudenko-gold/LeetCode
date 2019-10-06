@@ -634,3 +634,6 @@ Mock-Interview
 #1214 two-sum-bsts
 #1215 stepping-numbers
 #1216 valid-palindrome-iii
+
+06.10 
+#1217 play-with-chips
