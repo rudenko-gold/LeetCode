@@ -1,7 +1,7 @@
 LeetCode Problem Solving Statistics
 
 Status on 28.09.19:
-Problems Solved - 426 (Easy - 290; Medium - 123, Hard - 13)
+Problems Solved - 429 (Easy - 291; Medium - 124, Hard - 14)
 
 Mock-Interview Completed: 1 
 14.07.19 - Interviewr: Melkonyan Alex
@@ -635,6 +635,15 @@ Mock-Interview
 #1215 stepping-numbers
 #1216 valid-palindrome-iii
 
-06.10 
+06.10 (2)
 #1217 play-with-chips
 #0141 linked-list-cycle
+
+07.10 (0)
+08.10 (0)
+09.10 (0)
+10.10 (0)
+11.10 (0)
+
+12.10 
+#0023 merge-k-sorted-lists
