@@ -652,3 +652,4 @@ Mock-Interview
 
 13.10
 #0239 sliding-window-maximum
+#0128 longest-consecutive-sequence
