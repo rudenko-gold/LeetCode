@@ -1,10 +1,11 @@
 LeetCode Problem Solving Statistics
 
-Status on 28.09.19:
-Problems Solved - 429 (Easy - 291; Medium - 124, Hard - 14)
+Status on 13.10.19:
+Problems Solved - 431 (Easy - 291; Medium - 125, Hard - 15)
 
-Mock-Interview Completed: 1 
-14.07.19 - Interviewr: Melkonyan Alex
+Mock-Interview Completed: 2 
+14.07.19 - Interviewer: Melkonyan Alex
+06.10.19 - Interviewer: Yuhimenko Valentin
 
 To-Learn List:
 - Longest increasing subsequence (n*log n)
@@ -645,6 +646,9 @@ Mock-Interview
 10.10 (0)
 11.10 (0)
 
-12.10 
+12.10 (2)
 #0023 merge-k-sorted-lists
 #0438 find-all-anagrams-in-a-string
+
+13.10
+#0239 sliding-window-maximum
